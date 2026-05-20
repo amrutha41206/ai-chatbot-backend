@@ -127,8 +127,11 @@ http://localhost:3000
 # Week Progress
 
 ✅ Day 1 — Backend setup, FastAPI server, API routes
+
 ✅ Day 2 — Chat API, frontend-backend integration, route organization
+
 ⬜ Day 3 — AI integration
+
 ⬜ Day 4 — Testing and deployment
 
 ---
